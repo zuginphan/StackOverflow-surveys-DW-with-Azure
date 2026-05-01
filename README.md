@@ -3,5 +3,4 @@
 
 # Star Schema 
 <img width="826" height="637" alt="image" src="https://github.com/user-attachments/assets/e0a5d53b-cbb8-42ae-b45b-e762abda3654" />
-https://dbdiagram.io/d/SO-FINAL-6731a858e9daa85acafd8557
 
